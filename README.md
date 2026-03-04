@@ -10,7 +10,7 @@ Titulky vyrobené z odposluchu z verzie: *Dano Drevo a tajomna komnata 1080p.mkv
 ## Dano Drevo a turnaj Mekyho Žbirku 
 Fork from: https://github.com/DanielBreiner/dano-drevo-a-turnaj-mekyho-zbirku-subtitles
 
-Titulky preformátované do .srt pre zachovanie kompatibility
+Titulky preformátované z verzie 0.6.2 do .srt formátu pre zachovanie kompatibility
 
 Testované na: *Dano Drevo a turnaj Mekyho Žbirku.mp4*
 
