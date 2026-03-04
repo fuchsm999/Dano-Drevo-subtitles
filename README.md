@@ -1,5 +1,5 @@
-# Dano-Drevo-subtitles
-Titulky pre filmy Dano Drevo / Subtitles for movies Dano Drevo
+# Dano Drevo titulky
+Titulky pre filmy Dano Drevo / Subtitles for Dano Drevo movies
 
 ## Dano Drevo a tajomná komnata
 
