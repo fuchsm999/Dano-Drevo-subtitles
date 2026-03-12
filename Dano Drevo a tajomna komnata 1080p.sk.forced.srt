@@ -59,4 +59,4 @@ Domino Kisspepi
 15
 02:31:07,706 --> 02:33:15,219
 Titulky Dano Drevo a tajomná komnata
-verzia 1.0.0 by fuchsm999 (GitHub)
+verzia 1.0.5 by fuchsm999 (GitHub)
